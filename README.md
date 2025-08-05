@@ -1,18 +1,43 @@
-## hello gua arfan juliano 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9ff,100:92fe9d&height=200&section=header&text=Hi,+I’m+Arfan+Juliano!&fontSize=40&fontAlign=center&fontColor=ffffff" />
 
-<!--
-**arfan198/arfan198** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Halo, saya Arfan Juliano!
 
-Here are some ideas to get you started:
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Halo,+nama+saya+Arfan+Juliano.;Lagi+belajar+PHP,+Python,+HTML,+CSS,+JavaScript.;Selamat+datang+di+profil+GitHub+saya!)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-I’m currently learning html css js phyton
-![yeah!] (https://media.giphy.com/media/s3pho1tLLupZp1qtQB/giphy.gif)
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" alt="Coding GIF" />
+
+---
+
+## 🛠️ Tools & Teknologi:
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+---
+
+## 🎯 Target Saya:
+- Mampu membuat website dan aplikasi dari awal sampai akhir
+- Belajar backend dan database
+- Siap kerja secara remote / freelance
+
+---
+
+## 
+- ✉️ Email: **arfan.juliano5729@gmail.com**
+- 📸 Instagram: [@fnzy522](https://instagram.com/fnzy522)
+- 📱 WhatsApp: [085123523608](https://wa.me/6285123523608)
+
+---
+
+## 📊 GitHub Stats
+
+![Arfan's GitHub stats](https://github-readme-stats.vercel.app/api?username=arfan198&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arfan198&layout=compact&theme=tokyonight)
+
+---
+
+> *"Belajar pelan-pelan asal konsisten, nanti juga jago!"* 💪

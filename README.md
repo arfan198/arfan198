@@ -2,7 +2,7 @@
 
 # 👋 Halo, saya Arfan Juliano!
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Halo,+nama+saya+Arfan+Juliano.;Lagi+belajar+PHP,+Python,+HTML,+CSS,+JavaScript.;Selamat+datang+di+profil+GitHub+saya!)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Halo,+nama+gua+Arfan+Juliano.;gua+Lagi+belajar+PHP,+Python,+HTML,+CSS,+JavaScript.;Selamat+datang+di+profil+GitHub+saya!)
 
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" alt="Coding GIF" />
 

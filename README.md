@@ -32,12 +32,5 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Arfan's GitHub stats](https://github-readme-stats.vercel.app/api?username=arfan198&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arfan198&layout=compact&theme=tokyonight)
-
----
 
 > *"Belajar pelan-pelan asal konsisten, nanti juga jago!"* 💪
